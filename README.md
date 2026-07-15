@@ -22,5 +22,5 @@ Mi objetivo es conseguir mi primera oportunidad como desarrollador junior.
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO
-- Email: tucorreo@email.com
+- LinkedIn: https://www.linkedin.com/in/frankz-junior-ba%C3%B1on-ponce-448098243/ 
+- Email: frankz.king58@icloud.com
