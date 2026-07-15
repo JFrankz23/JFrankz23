@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Frankz Junior
 
-<!--
-**JFrankz23/JFrankz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-Here are some ideas to get you started:
+🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Actualmente
+
+Estoy reforzando mis conocimientos en desarrollo de software mediante proyectos personales y formación continua.
+
+Mi objetivo es conseguir mi primera oportunidad como desarrollador junior.
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+- Email: tucorreo@email.com
